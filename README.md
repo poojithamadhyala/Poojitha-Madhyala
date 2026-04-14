@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Poojitha%20Madhyala&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Robotics%20·%20AI%20·%20Autonomous%20Systems&descSize=18&descAlignY=62&descColor=aaaacc" />
+<img src="header.svg" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9F8FFF&center=true&vCenter=true&width=600&lines=MS+Robotics+%40+Arizona+State+University;Building+AI+that+moves%2C+sees%2C+and+speaks;ROS2+%7C+Computer+Vision+%7C+Deep+Learning;Open+to+roles+in+AI%2C+Robotics+%26+Autonomous+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=00E5E8&center=true&vCenter=true&width=600&lines=MS+Robotics+%40+Arizona+State+University;Building+AI+that+moves%2C+sees%2C+and+speaks;ROS2+%7C+Computer+Vision+%7C+Deep+Learning;Open+to+roles+in+AI%2C+Robotics+%26+Autonomous+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -69,7 +69,7 @@ Real-time road safety system — YOLOv8n detects potholes, GPS logs every hazard
 **82.2% mAP · ~41ms CPU inference**
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-111?style=flat-square&logo=github)](https://github.com/poojithamadhyala/Pothole-Detection)
-[![Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/poojithamadhyala/pothole-detection)
+[![Demo](https://img.shields.io/badge/Live-Demo-00aacc?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/poojithamadhyala/pothole-detection)
 [![Video](https://img.shields.io/badge/Watch-Demo-FF0000?style=flat-square&logo=youtube)](https://youtu.be/j16wN9h2V9I)
 
 </td>
@@ -120,14 +120,14 @@ End-to-end MLOps pipeline for customer churn prediction with experiment tracking
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=poojithamadhyala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=9F8FFF&icon_color=9F8FFF&text_color=ffffff&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojithamadhyala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=9F8FFF&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=poojithamadhyala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00080f&title_color=00ffff&icon_color=00cccc&text_color=ccfcfd&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojithamadhyala&layout=compact&theme=tokyonight&hide_border=true&bg_color=00080f&title_color=00ffff&text_color=ccfcfd" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=poojithamadhyala&theme=tokyonight&hide_border=true&background=0f0c29&ring=9F8FFF&fire=FF6B6B&currStreakLabel=9F8FFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=poojithamadhyala&theme=tokyonight&hide_border=true&background=00080f&ring=00ffff&fire=00aacc&currStreakLabel=00ffff" />
 
 </div>
 
@@ -137,7 +137,7 @@ End-to-end MLOps pipeline for customer churn prediction with experiment tracking
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poojithamadhyala&bg_color=0f0c29&color=9F8FFF&line=6C63FF&point=FF6B6B&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poojithamadhyala&bg_color=00080f&color=00ffff&line=00aacc&point=00ffff&area=true&hide_border=true" />
 
 </div>
 
@@ -147,7 +147,7 @@ End-to-end MLOps pipeline for customer churn prediction with experiment tracking
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-poojithamadhyala-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/poojithamadhyala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojitha_Madhyala-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poojitha-madhyala-038980323/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-poojithamadhyala-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/poojithamadhyala)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo_Videos-FF0000?style=flat-square&logo=youtube)](https://youtu.be/j16wN9h2V9I)
 [![GitHub](https://img.shields.io/badge/GitHub-poojithamadhyala-181717?style=flat-square&logo=github)](https://github.com/poojithamadhyala)
@@ -158,6 +158,6 @@ End-to-end MLOps pipeline for customer churn prediction with experiment tracking
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00080f,50:005566,100:00080f&height=100&section=footer" />
 
 </div>
