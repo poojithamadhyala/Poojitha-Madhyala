@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Poojitha%20Madhyala&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20·%20AI%20·%20Autonomous%20Systems&descSize=18&descAlignY=58&descColor=aaaacc" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Poojitha%20Madhyala&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Robotics%20·%20AI%20·%20Autonomous%20Systems&descSize=18&descAlignY=62&descColor=aaaacc" />
 
 <div align="center">
 
@@ -158,6 +158,6 @@ End-to-end MLOps pipeline for customer churn prediction with experiment tracking
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&reversal=true" />
 
 </div>
